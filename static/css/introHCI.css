@@ -28,14 +28,6 @@ body {
      width: 525px;
 }
 
-.project p {
-    font-variant: small-caps;
-}
-
-#project1 {
-    font-variant: small-caps;
-}
-
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
