@@ -17,7 +17,6 @@ body {
 }
 
 .container {
-    background-color:pink;
     text-align:center;
 
 }
@@ -36,8 +35,7 @@ body {
 }
 
 .jumbotron{
-    background-color:#ff3600;
-    color:white;
+    color:purple;
 }
 
 #derp {
